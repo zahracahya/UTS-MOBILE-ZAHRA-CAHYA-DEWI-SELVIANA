@@ -42,6 +42,8 @@ Digunakan untuk membuat efek animasi sederhana, seperti awan bergerak pada halam
 
 Digunakan untuk format tanggal, terutama pada fitur Date Picker dalam halaman Biodata.
 
+---
+
 ## Cara Menjalankan Proyek
 
 1. Clone repository ini:
