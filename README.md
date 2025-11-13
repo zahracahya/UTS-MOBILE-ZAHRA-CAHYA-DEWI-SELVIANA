@@ -12,6 +12,20 @@ Daily LifeApp juga menjadi media untuk menerapkan konsep-konsep Flutter, seperti
 
 ---
 
+## 📝 Deskripsi Halaman Aplikasi Daily LifeApp
+
+Aplikasi memiliki beberapa halaman utama yang dapat diakses melalui **Bottom Navigation Bar**, yang menghubungkan halaman-halaman berikut:
+
+| No    | Halaman                  | Deskripsi                                                                                                                                                                                                                                                                                     |
+| ----- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Splash Screen**        | Tampilan pembuka selama 5 detik yang menampilkan judul aplikasi, foto pengguna, nama, dan NIM sebagai identitas awal sebelum masuk ke menu utama.                                                                                                                                             |
+| **2** | **Dashboard / Navigasi** | Navigasi utama yang menggunakan bottom navigation bar dengan menu: **Biodata**, **Kontak**, **Kalkulator**, **Cuaca**, dan **Berita**, untuk memudahkan perpindahan antar halaman.                                                                                                            |
+| **3** | **Biodata**              | Halaman profil lengkap berisi foto pengguna, input teks (Nama, NRP, Prodi), dropdown kelas (IF-A, IF-B, IF-C), radio button jenis kelamin, dan date picker untuk memilih tanggal lahir. Tersedia halaman **Edit Biodata** untuk memperbarui dan menyimpan perubahan data.                     |
+| **4** | **Kontak**               | Menampilkan daftar kontak statis dengan foto profil melingkar, nama, dan nomor telepon. Dilengkapi fitur **Edit** dan **Hapus**, tombol **Tambah (+)** untuk menambah kontak baru, serta **search bar** untuk mencari kontak berdasarkan nama atau nomor.                                     |
+| **5** | **Kalkulator**           | Kalkulator sederhana dengan fitur operasi: tambah (+), kurang (−), kali (×), bagi (÷), kuadrat (x²), akar (√), hapus satu digit (⌫), dan clear (C). Hasil perhitungan hanya muncul ketika tombol **“=”** ditekan.                                                                             |
+| **6** | **Cuaca**                | Menampilkan informasi cuaca statis Kota Bandung dengan suhu, ikon cuaca bergerak (animasi awan), kelembapan, kecepatan angin, serta peluang hujan. Terdapat halaman **Hari Ini** dan **Cuaca 7 Hari** berisi prakiraan mingguan.                                                              |
+| **7** | **Berita**               | Daftar berita statis berupa kartu berisi gambar, judul, ringkasan, tanggal, dan kategori. Dilengkapi fitur pencarian, filter kategori (Bencana, Olahraga, Teknologi, Ekonomi, Hiburan, Kuliner), serta urutkan berita berdasarkan terbaru atau terlama. Semua data bersifat statis tanpa API. |
+
 ## 📸 Screenshot Aplikasi
 
 | Halaman                  | Tampilan                                                 |
