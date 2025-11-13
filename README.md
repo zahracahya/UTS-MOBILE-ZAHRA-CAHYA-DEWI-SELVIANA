@@ -36,7 +36,7 @@ Aplikasi memiliki beberapa halaman utama yang dapat diakses melalui **Bottom Nav
 | Dashboard                | ![Splash](screenshots/biodata1.jpg)                                              |
 | Biodata                  | ![Splash](screenshots/biodata1.jpg)                                              |
 | Edit Biodata 1           | ![Edit Biodata 1](screenshots/edit%20biodata1.jpg)                               |
-| Edit Biodata jenisklmn   | ![Edit Biodata edit jenis kelamin](screenshots/biodataeditjeniskelamin.jpg)      |
+| Edit Biodata jenisklmn   | ![Edit Biodata edit jenis kelamin](screenshots/biodata%edit%jeniskelamin.jpg)    |
 | Edit Biodata kelas       | ![Edit Biodata 2](screenshots/edit%20biodata%202.jpg)                            |
 | Edit Biodata tanggal     | ![Edit Biodata 3](screenshots/edit%20biodata%203.jpg)                            |
 | Kontak                   | ![Kontak](screenshots/kontak.jpg)                                                |
