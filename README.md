@@ -26,14 +26,14 @@ Aplikasi memiliki beberapa halaman utama yang dapat diakses melalui **Bottom Nav
 | **6** | **Cuaca**                | Menampilkan informasi cuaca statis Kota Bandung dengan suhu, ikon cuaca bergerak (animasi awan), kelembapan, kecepatan angin, serta peluang hujan. Terdapat halaman **Hari Ini** dan **Cuaca 7 Hari** berisi prakiraan mingguan.                                                              |
 | **7** | **Berita**               | Daftar berita statis berupa kartu berisi gambar, judul, ringkasan, tanggal, dan kategori. Dilengkapi fitur pencarian, filter kategori (Bencana, Olahraga, Teknologi, Ekonomi, Hiburan, Kuliner), serta urutkan berita berdasarkan terbaru atau terlama. Semua data bersifat statis tanpa API. |
 
+---
+
 ## 📸 Screenshot Aplikasi
 
 | Halaman                  | Tampilan                                                 |
 | ------------------------ | -------------------------------------------------------- |
-| Berita Filter Kategori   | ![Berita Filter](screenshots/berita_filter_kategori.jpg) |
-| Berita Search            | ![Berita Search](screenshots/berita%20search.jpg)        |
-| Berita                   | ![Berita](screenshots/berita.jpg)                        |
-| Splashscreen / Dashboard | ![Splash](screenshots/splashscreen1.jpg)                 |
+| Splash Screen            | ![Splash](screenshots/splashscreen1.jpg)                 |
+| Dashboard / Navigasi     | ![Dashboard](screenshots/splashscreen1.jpg)              |
 | Biodata                  | ![Biodata](screenshots/biodata.jpg)                      |
 | Edit Biodata 1           | ![Edit Biodata 1](screenshots/edit%20biodata1.jpg)       |
 | Edit Biodata 2           | ![Edit Biodata 2](screenshots/edit%20biodata%202.jpg)    |
@@ -43,8 +43,11 @@ Aplikasi memiliki beberapa halaman utama yang dapat diakses melalui **Bottom Nav
 | Kontak 2                 | ![Kontak 2](screenshots/kontak%202.jpg)                  |
 | Kontak 3                 | ![Kontak 3](screenshots/kontak%203.jpg)                  |
 | Kalkulator               | ![Kalkulator](screenshots/kalkulator%20new.jpg)          |
-| Cuaca 1                  | ![Cuaca 1](screenshots/cuaca%201.jpg)                    |
-| Cuaca                    | ![Cuaca](screenshots/cuaca.jpg)                          |
+| Cuaca 1 (Hari Ini)       | ![Cuaca 1](screenshots/cuaca%201.jpg)                    |
+| Cuaca (7 Hari / Lainnya) | ![Cuaca](screenshots/cuaca.jpg)                          |
+| Berita                   | ![Berita](screenshots/berita.jpg)                        |
+| Berita Search            | ![Berita Search](screenshots/berita%20search.jpg)        |
+| Berita Filter Kategori   | ![Berita Filter](screenshots/berita_filter_kategori.jpg) |
 
 > Semua desain dibuat dengan memperhatikan prinsip UI/UX yang bersih, modern, dan responsif.
 
