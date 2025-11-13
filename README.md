@@ -33,7 +33,6 @@ Aplikasi memiliki beberapa halaman utama yang dapat diakses melalui **Bottom Nav
 | Halaman                  | Tampilan                                                 |
 | ------------------------ | -------------------------------------------------------- |
 | Splash Screen            | ![Splash](screenshots/splashscreen1.jpg)                 |
-| Dashboard / Navigasi     | ![Dashboard](screenshots/splashscreen1.jpg)              |
 | Biodata                  | ![Biodata](screenshots/biodata.jpg)                      |
 | Edit Biodata 1           | ![Edit Biodata 1](screenshots/edit%20biodata1.jpg)       |
 | Edit Biodata 2           | ![Edit Biodata 2](screenshots/edit%20biodata%202.jpg)    |
