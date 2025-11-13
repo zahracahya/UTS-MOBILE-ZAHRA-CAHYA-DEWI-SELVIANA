@@ -8,13 +8,11 @@ Daily LifeApp adalah aplikasi mobile berbasis Flutter yang dikembangkan untuk me
 
 Aplikasi ini memiliki tampilan antarmuka yang bersih, navigasi yang mudah melalui bottom navigation bar, dan interaksi sederhana yang memudahkan pengguna berpindah antar halaman. Semua data yang digunakan bersifat statis (tanpa API) sehingga proses pengembangan lebih terfokus pada implementasi UI, widget, dan logika dasar Flutter.
 
-## Daily LifeApp juga menjadi media untuk menerapkan konsep-konsep Flutter, seperti penggunaan widget, state management dasar, navigasi, animation controller, list view, card layout, form input, dropdown, date picker, dan pembuatan halaman responsif
+Daily LifeApp juga menjadi media untuk menerapkan konsep-konsep Flutter, seperti penggunaan widget, state management dasar, navigasi, animation controller, list view, card layout, form input, dropdown, date picker, dan pembuatan halaman responsif.
 
 ---
 
 ## 📸 Screenshot Aplikasi
-
----
 
 | Halaman                  | Tampilan                                                 |
 | ------------------------ | -------------------------------------------------------- |
@@ -35,6 +33,8 @@ Aplikasi ini memiliki tampilan antarmuka yang bersih, navigasi yang mudah melalu
 | Cuaca                    | ![Cuaca](screenshots/cuaca.jpg)                          |
 
 > Semua desain dibuat dengan memperhatikan prinsip UI/UX yang bersih, modern, dan responsif.
+
+---
 
 ## Teknologi yang Digunakan
 
