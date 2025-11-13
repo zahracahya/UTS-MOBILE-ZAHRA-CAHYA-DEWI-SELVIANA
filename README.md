@@ -1,16 +1,37 @@
-# utsmobile
+# UTS Pemrograman Mobile - Aplikasi Flutter
 
-A new Flutter project.
+---
 
-## Getting Started
+## Deskripsi Aplikasi – Daily LifeApp
 
-This project is a starting point for a Flutter application.
+Daily LifeApp adalah aplikasi mobile berbasis Flutter yang dikembangkan untuk memenuhi tugas UTS Pemrograman Mobile. Aplikasi ini berisi fitur-fitur sederhana yang berkaitan dengan aktivitas sehari-hari, seperti pengelolaan biodata, daftar kontak, kalkulator, informasi cuaca, dan daftar berita.
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi ini memiliki tampilan antarmuka yang bersih, navigasi yang mudah melalui bottom navigation bar, dan interaksi sederhana yang memudahkan pengguna berpindah antar halaman. Semua data yang digunakan bersifat statis (tanpa API) sehingga proses pengembangan lebih terfokus pada implementasi UI, widget, dan logika dasar Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Daily LifeApp juga menjadi media untuk menerapkan konsep-konsep Flutter, seperti penggunaan widget, state management dasar, navigasi, animation controller, list view, card layout, form input, dropdown, date picker, dan pembuatan halaman responsif
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Teknologi yang Digunakan
+
+1. Flutter 3.x
+
+Framework utama yang digunakan untuk membangun aplikasi mobile lintas platform (Android dan iOS). Flutter memanfaatkan widget berbasis deklaratif untuk membuat tampilan yang fleksibel dan responsif.
+
+2. Dart
+
+Bahasa pemrograman utama untuk logika aplikasi, pengelolaan state, fungsi kalkulator, form input, dan struktur halaman.
+
+3. Google Fonts Package
+
+Digunakan untuk menerapkan tipografi khusus seperti Poppins, sehingga tampilan aplikasi lebih modern dan konsisten.
+
+4. Material Design Components
+
+Berbagai widget seperti AppBar, BottomNavigationBar, Card, ListTile, IconButton, TextField, DropdownButton, dan ElevatedButton digunakan untuk membangun tampilan sesuai standar Material Design.
+
+5. Animation Controller
+
+Digunakan untuk membuat efek animasi sederhana, seperti awan bergerak pada halaman Cuaca dan animasi transisi pada halaman tertentu.
+
+6. Intl Package
+
+Digunakan untuk format tanggal, terutama pada fitur Date Picker dalam halaman Biodata.
