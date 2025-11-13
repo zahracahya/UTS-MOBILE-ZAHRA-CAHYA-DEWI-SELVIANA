@@ -16,22 +16,24 @@ Aplikasi ini memiliki tampilan antarmuka yang bersih, navigasi yang mudah melalu
 
 ---
 
+## 📸 Screenshot Aplikasi
+
 | Halaman                  | Tampilan                                                 |
 | ------------------------ | -------------------------------------------------------- |
 | Berita Filter Kategori   | ![Berita Filter](screenshots/berita_filter_kategori.jpg) |
-| Berita Search            | ![Berita Search](screenshots/berita search.jpg)          |
+| Berita Search            | ![Berita Search](screenshots/berita%20search.jpg)        |
 | Berita                   | ![Berita](screenshots/berita.jpg)                        |
 | Splashscreen / Dashboard | ![Splash](screenshots/splashscreen1.jpg)                 |
 | Biodata                  | ![Biodata](screenshots/biodata.jpg)                      |
-| Edit Biodata 1           | ![Edit Biodata 1](screenshots/edit biodata1.jpg)         |
-| Edit Biodata 2           | ![Edit Biodata 2](screenshots/edit biodata 2.jpg)        |
-| Edit Biodata 3           | ![Edit Biodata 3](screenshots/edit biodata 3.jpg)        |
+| Edit Biodata 1           | ![Edit Biodata 1](screenshots/edit%20biodata1.jpg)       |
+| Edit Biodata 2           | ![Edit Biodata 2](screenshots/edit%20biodata%202.jpg)    |
+| Edit Biodata 3           | ![Edit Biodata 3](screenshots/edit%20biodata%203.jpg)    |
 | Kontak                   | ![Kontak](screenshots/kontak.jpg)                        |
-| Kontak 1                 | ![Kontak 1](screenshots/kontak 1.jpg)                    |
-| Kontak 2                 | ![Kontak 2](screenshots/kontak 2.jpg)                    |
-| Kontak 3                 | ![Kontak 3](screenshots/kontak 3.jpg)                    |
-| Kalkulator               | ![Kalkulator](screenshots/kalkulator new.jpg)            |
-| Cuaca 1                  | ![Cuaca 1](screenshots/cuaca 1.jpg)                      |
+| Kontak 1                 | ![Kontak 1](screenshots/kontak%201.jpg)                  |
+| Kontak 2                 | ![Kontak 2](screenshots/kontak%202.jpg)                  |
+| Kontak 3                 | ![Kontak 3](screenshots/kontak%203.jpg)                  |
+| Kalkulator               | ![Kalkulator](screenshots/kalkulator%20new.jpg)          |
+| Cuaca 1                  | ![Cuaca 1](screenshots/cuaca%201.jpg)                    |
 | Cuaca                    | ![Cuaca](screenshots/cuaca.jpg)                          |
 
 > Semua desain dibuat dengan memperhatikan prinsip UI/UX yang bersih, modern, dan responsif.
