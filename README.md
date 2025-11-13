@@ -12,11 +12,9 @@ Aplikasi ini memiliki tampilan antarmuka yang bersih, navigasi yang mudah melalu
 
 ---
 
-## Screenshot Aplikasi
+## 📸 Screenshot Aplikasi
 
 ---
-
-## 📸 Screenshot Aplikasi
 
 | Halaman                  | Tampilan                                                 |
 | ------------------------ | -------------------------------------------------------- |
