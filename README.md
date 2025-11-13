@@ -40,12 +40,12 @@ Aplikasi memiliki beberapa halaman utama yang dapat diakses melalui **Bottom Nav
 | Edit Biodata kelas       | ![Edit Biodata 2](screenshots/edit%20biodata%202.jpg)                                  |
 | Edit Biodata tanggal     | ![Edit Biodata 3](screenshots/edit%20biodata%203.jpg)                                  |
 | Kontak                   | ![Kontak](screenshots/kontak.jpg)                                                      |
-| Kontak 1                 | ![Kontak 1](screenshots/kontak%201.jpg)                                                |
-| Kontak 2                 | ![Kontak 2](screenshots/kontak%202.jpg)                                                |
-| Kontak 3                 | ![Kontak 3](screenshots/kontak%203.jpg)                                                |
+| Kontak edit,delate       | ![Kontak 1](screenshots/kontak%201.jpg)                                                |
+| Kontak tambah kontak     | ![Kontak 2](screenshots/kontak%202.jpg)                                                |
+| Kontak search kontak     | ![Kontak 3](screenshots/kontak%203.jpg)                                                |
 | Kalkulator               | ![Kalkulator](screenshots/kalkulator%20new.jpg)                                  |
-| Cuaca 1 (Hari Ini)       | ![Cuaca 1](screenshots/cuaca%201.jpg)                                            |
-| Cuaca (7 Hari / Lainnya) | ![Cuaca](screenshots/cuaca.jpg)                                                  |
+| Cuaca 1 (Hari Ini)       | ![Cuaca 1](screenshots/cuaca.jpg)                                            |
+| Cuaca (7 Hari / Lainnya) | ![Cuaca](screenshots/cuaca%201.jpg)                                                  |
 | Berita                   | ![Berita](screenshots/berita.jpg)                                                |
 | Berita Search            | ![Berita Search](screenshots/berita%20search.jpg)                                |
 | Berita Filter Kategori   | ![Berita Filter](screenshots/berita_filter_kategori.jpg)                         |
