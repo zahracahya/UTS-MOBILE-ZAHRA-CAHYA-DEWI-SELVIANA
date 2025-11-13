@@ -8,7 +8,13 @@ Daily LifeApp adalah aplikasi mobile berbasis Flutter yang dikembangkan untuk me
 
 Aplikasi ini memiliki tampilan antarmuka yang bersih, navigasi yang mudah melalui bottom navigation bar, dan interaksi sederhana yang memudahkan pengguna berpindah antar halaman. Semua data yang digunakan bersifat statis (tanpa API) sehingga proses pengembangan lebih terfokus pada implementasi UI, widget, dan logika dasar Flutter.
 
-Daily LifeApp juga menjadi media untuk menerapkan konsep-konsep Flutter, seperti penggunaan widget, state management dasar, navigasi, animation controller, list view, card layout, form input, dropdown, date picker, dan pembuatan halaman responsif
+## Daily LifeApp juga menjadi media untuk menerapkan konsep-konsep Flutter, seperti penggunaan widget, state management dasar, navigasi, animation controller, list view, card layout, form input, dropdown, date picker, dan pembuatan halaman responsif
+
+---
+
+## Screenshot Aplikasi
+
+---
 
 ## Teknologi yang Digunakan
 
@@ -35,3 +41,10 @@ Digunakan untuk membuat efek animasi sederhana, seperti awan bergerak pada halam
 6. Intl Package
 
 Digunakan untuk format tanggal, terutama pada fitur Date Picker dalam halaman Biodata.
+
+## Cara Menjalankan Proyek
+
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/zahracahya/UTS-MOBILE-ZAHRA-CAHYA-DEWI-SELVIANA.git
+   ```
